@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# ReactJs Admin Panel 
 
-Fancyn, Modern admin panel
+Fancy, Modern admin panel using ReactJs and SCSS.
+
+
+
+# ToDo:
+ - make it responsive
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
